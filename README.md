@@ -38,10 +38,10 @@ I am a dedicated **web developer** with a strong foundation in both **frontend**
 
 ### GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: nowrap; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=dark&locale=en" alt="GitHub Stats Dark" style="height: 160px; width: 300px; object-fit: contain;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" alt="GitHub Streak Dark" style="height: 160px; width: 300px; object-fit: contain;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srabonti03&layout=compact&theme=dark&locale=en" alt="Top Languages Dark" style="height: 160px; width: 300px; object-fit: contain;"/>
+<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=dark&locale=en" alt="GitHub Stats Dark" style="height: 160px; object-fit: contain;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" alt="GitHub Streak Dark" style="height: 160px; object-fit: contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srabonti03&layout=compact&theme=dark&locale=en" alt="Top Languages Dark" style="height: 160px; width: 100%; object-fit: contain;"/>
 </p>
 
 ---
