@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack** (MongoDB, Express.js, React, Node.js)
 - 💻 Working on building my project **Whispered Words** — an online bookstore
-- 📚 Interested in **Frontend Development**, UI/UX design, and modern web technologies
+- 📚 Interested in **Frontend Development**, **UI/UX design**, and modern web technologies
 - 🔧 Skilled with **JavaScript**, **React.js**, **TailwindCSS**, **MongoDB**, **Node.js**, and more
 - 📖 Passionate about creating intuitive, responsive, and accessible web applications
 - 👩‍💻 Constantly improving my coding skills and contributing to open-source
@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srabontitalukdar03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="srabontitalukdar03" /></p>
 
@@ -63,4 +63,3 @@
 <h3 align="center">"Building the future of web applications, one line of code at a time." 🌐</h3>
 
 ---
-
