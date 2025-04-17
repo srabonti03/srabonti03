@@ -4,6 +4,14 @@ Based in Bangladesh 🇧🇩
 
 ---
 
+<p align="center">
+  <a href="https://github.com/srabonti03">
+    <img src="https://github-profile-trophy.vercel.app/?username=srabonti03&theme=onedark&no-frame=true&row=1" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### About Me
 
 I am a dedicated **web developer** with a strong foundation in both **frontend** and **backend** development. Currently, I am focused on building scalable, secure, and user-friendly web applications. I have a deep appreciation for both the **technical aspects** of development and the **user experience**.
@@ -30,36 +38,18 @@ I am a dedicated **web developer** with a strong foundation in both **frontend**
 
 ---
 
-### Projects
-
-#### **Whispered Words - Online Bookstore**
-A full-stack application designed to provide a seamless shopping experience for book lovers. The application supports user authentication, dynamic product listings, and secure transactions.
-
-- **Tech Stack**: ReactJS, Node.js, MongoDB, JWT, Tailwind CSS
-- **Features**: Secure user authentication, product catalog, real-time updates, responsive design.
-- **Link**: [Whispered Words GitHub](#)
-
-#### **Personal Portfolio**
-A professional portfolio to showcase my development skills, projects, and achievements. Focused on a clean, minimalist design with an emphasis on responsive UI.
-
-- **Tech Stack**: HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS
-- **Features**: Interactive UI, project showcase, contact form.
-- **Link**: [Portfolio GitHub](#)
-
----
-
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srabontitalukdar03&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=default&locale=en" alt="GitHub Stats Light" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabontitalukdar03&layout=compact&theme=tokyonight&border_radius=10"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" alt="GitHub Streak Dark" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabontitalukdar03&theme=tokyonight&border_radius=10"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srabonti03&layout=compact&theme=default&locale=en" alt="Top Languages Light" />
 </p>
 
 ---
@@ -78,7 +68,6 @@ A professional portfolio to showcase my development skills, projects, and achiev
 <p align="left">
   <a href="https://facebook.com/srabonti.talukdar03" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/></a>
   <a href="https://instagram.com/srabonti_talukdar03" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://youtube.com/@srabontitalukdar03" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/></a>
   <a href="https://wa.me/8801724394274" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/></a>
 </p>
 
