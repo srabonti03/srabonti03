@@ -1,56 +1,104 @@
-<h1 align="center" style="color:#ff4c98;">Hi 👋, I'm Srabonti Talukdar</h1>
-<h3 align="center" style="color:#f7c9ff;">A passionate CSE student and frontend developer from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding" />
-</p>
+# Srabonti 👑  
+**Computer Science and Engineering (CSE) Student | Full-Stack Web Developer | Creative Technologist**  
+Based in Bangladesh 🇧🇩
 
 ---
 
-- 🌱 I’m currently learning **MERN stack** (MongoDB, Express.js, React, Node.js)
-- 💻 Working on building my project **Whispered Words** — an online bookstore
-- 📚 Interested in **Frontend Development**, UI/UX design, and modern web technologies
-- 🔧 Skilled with **JavaScript**, **React.js**, **TailwindCSS**, **MongoDB**, **Node.js**, and more
-- 📖 Passionate about creating intuitive, responsive, and accessible web applications
-- 👩‍💻 Constantly improving my coding skills and contributing to open-source
+### About Me
+
+I am a dedicated **web developer** with a strong foundation in both **frontend** and **backend** development. Currently, I am focused on building scalable, secure, and user-friendly web applications. I have a deep appreciation for both the **technical aspects** of development and the **user experience**.
+
+- 🧠 **BSc in CSE** with expertise in software development, algorithms, and data structures.
+- 💻 Currently working on **Whispered Words**, a full-stack **online bookstore** project.
+- 🔒 Passionate about **secure coding** and building **robust authentication systems**.
+- 🌱 Actively learning and exploring **Next.js**, **Server-side Rendering (SSR)**, and improving my understanding of **API security**.
 
 ---
 
-<h3 align="left">📞 Connect with Me:</h3>
+### Technical Skills
+
+- **Frontend**:  
+  - HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS
+- **Backend**:  
+  - Node.js, Express.js, MongoDB, RESTful APIs, JWT Authentication
+- **Version Control**:  
+  - Git, GitHub
+- **Languages**:  
+  - JavaScript, C, SQL
+- **Tools**:  
+  - Docker, Postman, MongoDB Atlas
+
+---
+
+### Projects
+
+#### **Whispered Words - Online Bookstore**
+A full-stack application designed to provide a seamless shopping experience for book lovers. The application supports user authentication, dynamic product listings, and secure transactions.
+
+- **Tech Stack**: ReactJS, Node.js, MongoDB, JWT, Tailwind CSS
+- **Features**: Secure user authentication, product catalog, real-time updates, responsive design.
+- **Link**: [Whispered Words GitHub](#)
+
+#### **Personal Portfolio**
+A professional portfolio to showcase my development skills, projects, and achievements. Focused on a clean, minimalist design with an emphasis on responsive UI.
+
+- **Tech Stack**: HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS
+- **Features**: Interactive UI, project showcase, contact form.
+- **Link**: [Portfolio GitHub](#)
+
+---
+
+### GitHub Stats
+
 <p align="left">
-  <a href="https://fb.com/srabonti.talukdar03" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/srabontitalukdar03" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://www.codechef.com/users/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30" />
-  </a>
-  <a href="https://www.hackerrank.com/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="Hackerrank" height="30" width="30" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=srabontitalukdar03&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
 </p>
 
----
-
-<h3 align="left">🛠 Languages & Tools:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabontitalukdar03&layout=compact&theme=tokyonight&border_radius=10"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabontitalukdar03&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
 
-<h3 align="center">"Building the future of web applications, one line of code at a time." 🌐</h3>
+### Currently Learning
+
+- **Next.js 14** & **Server-side Rendering (SSR)** for building scalable full-stack applications.
+- **Building Secure REST APIs** with **JWT** authentication and **authorization** strategies.
+- Enhancing knowledge of **database optimization** and improving MongoDB query performance.
+- Focusing on **Cloud deployment** and containerization with **Docker**.
 
 ---
 
+### Connect with Me
+
+<p align="left">
+  <a href="https://facebook.com/srabonti.talukdar03" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/></a>
+  <a href="https://instagram.com/srabonti_talukdar03" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://youtube.com/@srabontitalukdar03" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/></a>
+  <a href="https://wa.me/8801724394274" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/></a>
+</p>
+
+---
+
+### My Philosophy
+
+> *“Good code is like a well-written story—elegant, efficient, and impactful. I aim to build applications that deliver both performance and seamless user experience.”*
+
+---
+
+### 2025 Goals
+
+- **Launch Whispered Words** with full functionality.
+- **Complete Personal Portfolio** and expand it with more projects and professional accomplishments.
+- **Secure a remote frontend developer position** focused on modern web technologies.
+- **Contribute to open-source projects**, collaborate with other developers, and give back to the community.
+- **Improve my knowledge** in software architecture, API design, and deployment strategies.
+
+---
+
+🖤 *Every line of code is a step towards my goal.*  
+*Let’s build something impactful.*  
