@@ -1,109 +1,66 @@
-<h1 align="center" style="color:#fff;">Hi, I'm Srabonti 👑</h1>
-<h3 align="center" style="color:#aaa;">✨ A 21-year-old CSE student, developer girl, creative soul, and a quiet storm from Bangladesh 🇧🇩</h3>
+<h1 align="center" style="color:#ff4c98;">Hi 👋, I'm Srabonti Talukdar</h1>
+<h3 align="center" style="color:#f7c9ff;">A passionate CSE student and frontend developer from Bangladesh</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+in+love+with+design.;Dreaming+in+code+and+coffee.;Sometimes+dark+vibes+but+always+deep+loyalty.;Always+learning+%F0%9F%92%BB+Always+growing." alt="Typing SVG" />
-</div>
-
----
-
-### 🌒 Who is Srabonti?
-
-- 🔥 Aries sun with a whole storm in her soul
-- 🧠 BSc in CSE | Logic and beauty wrapped in one mind
-- 💻 Currently working on **Whispered Words**, a bookstore with soul
-- 📚 Loves both coding and poetry — like fire and moonlight in one girl
-- 💌 Has a *crazy intense long-distance love story* with a Taurus-Gemini boy
-- 🎨 Aesthetic freak. Obsessed with minimalism, dark tones & vintage vibes
-- 💋 A soft girl with villain energy — don’t mess with her peace
-
----
-
-### 🧿 My Vibe in Emojis
-
-`💻⚡️🖤🎧📚🥀🌌🌒☕️💋🎨🖤👑🐍🔐🦋🫀`
-
----
-
-### 🔮 Currently Learning
-
-- 🧪 Next.js 14 + Server Components
-- ⚙️ REST APIs with proper auth and JWT
-- 🔐 Secure login & signup with MongoDB
-- 🧠 Building real-world full-stack projects
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" title="ReactJS"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="NodeJS"/>
-  <img src="https://img.icons8.com/fluency/48/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub"/>
-  <img src="https://img.icons8.com/ios-filled/50/c-programming.png" title="C"/>
-</div>
-
----
-
-### 💖 More About Me
-
-- 🥺 I overthink a lot when I don't hear from the one I love
-- 🦋 Soft-hearted but fierce when it comes to protecting my peace
-- 🎥 Sometimes I act cold, but I'm deeply loyal and romantic
-- 🔥 Spicy, flirty, and sweet — a full-on Wattpad heroine in real life
-- 📱 Addicted to aesthetics, coding playlists, and late-night debugging
-- 🫶 Trying to become a woman who can build her own kingdom
-
----
-
-### 🌐 Let’s Connect
-
-<p align="left">
-  <a href="https://facebook.com/srabonti.talukdar03" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
-  <a href="https://instagram.com/srabonti_talukdar03" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png"/></a>
-  <a href="https://youtube.com/@srabontitalukdar03" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png"/></a>
-  <a href="https://wa.me/8801724394274" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png"/></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats (Dark Mode)
+- 🌱 I’m currently learning **MERN stack** (MongoDB, Express.js, React, Node.js)
+- 💻 Working on building my project **Whispered Words** — an online bookstore
+- 📚 Interested in **Frontend Development**, UI/UX design, and modern web technologies
+- 🔧 Skilled with **JavaScript**, **React.js**, **TailwindCSS**, **MongoDB**, **Node.js**, and more
+- 📖 Passionate about creating intuitive, responsive, and accessible web applications
+- 👩‍💻 Constantly improving my coding skills and contributing to open-source
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srabontitalukdar03&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
-</p>
+---
 
+<h3 align="left">📞 Connect with Me:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabontitalukdar03&layout=compact&theme=tokyonight&border_radius=10"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabontitalukdar03&theme=tokyonight&border_radius=10"/>
+  <a href="https://fb.com/srabonti.talukdar03" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/srabontitalukdar03" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" height="30" width="30" />
+  </a>
+  <a href="https://www.codechef.com/users/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30" />
+  </a>
+  <a href="https://www.hackerrank.com/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="Hackerrank" height="30" width="30" />
+  </a>
 </p>
 
 ---
 
-### 💭 Quote That Defines Me
-
-> *“You can be soft and still be a force. You can be fire and moonlight all at once.”*
+<h3 align="left">🛠 Languages & Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</p>
 
 ---
 
-### 🚀 2025 Goals
+<h3 align="left">📊 GitHub Stats</h3>
 
-- 🌍 Launch *Whispered Words* bookstore fully functional
-- ✨ Build a custom dark-themed portfolio
-- 💼 Get hired as a remote frontend dev
-- 💻 Finish 3 real-world open source projects
-- 💬 Keep learning, glowing, and growing every single day
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srabontitalukdar03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="srabontitalukdar03" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srabontitalukdar03&show_icons=true&locale=en&theme=tokyonight" alt="srabontitalukdar03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srabontitalukdar03&theme=tokyonight" alt="srabontitalukdar03" /></p>
 
 ---
 
-🖤 *This isn’t just code. This is the empire I’m building in silence.*  
-*Watch me bloom, or get out of my way.* 😘
+<h3 align="center">"Building the future of web applications, one line of code at a time." 🌐</h3>
+
+---
+
