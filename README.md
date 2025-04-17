@@ -6,7 +6,7 @@ Based in Bangladesh 🇧🇩
 
 <p align="center">
   <a href="https://github.com/srabonti03">
-    <img src="https://github-profile-trophy.vercel.app/?username=ssrabonti03&theme=onedark&no-frame=true&row=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=srabonti03&theme=onedark&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
