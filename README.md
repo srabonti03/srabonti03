@@ -39,9 +39,9 @@ I am a dedicated **web developer** with a strong foundation in both **frontend**
 ### GitHub Stats
 
 <p align="center" style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=dark&locale=en" alt="GitHub Stats Dark" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" alt="GitHub Streak Dark" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srabonti03&layout=compact&theme=dark&locale=en" alt="Top Languages Dark" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=dark&locale=en" alt="GitHub Stats Dark" width="32%" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" alt="GitHub Streak Dark" width="32%" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srabonti03&layout=compact&theme=dark&locale=en" alt="Top Languages Dark" width="32%" height="160px" />
 </p>
 
 ---
