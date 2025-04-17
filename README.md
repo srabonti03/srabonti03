@@ -48,7 +48,7 @@ I am a dedicated **web developer** with a strong foundation in both **frontend**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srabonti03&layout=compact&theme=dark&locale=en" alt="Top Languages Dark" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srabonti03&layout=compact&theme=dark&locale=en" alt="Top Languages Dark" width="90%" />
 </p>
 
 ---
