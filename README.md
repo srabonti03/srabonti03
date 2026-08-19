@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-Full-stack developer focused on building scalable, secure, and production-ready web applications with clean UI and strong backend architecture.
+Focused on building scalable, secure, and production-ready web applications with clean UI and strong backend architecture.
 
 ---
 
