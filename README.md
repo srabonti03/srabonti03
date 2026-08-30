@@ -5,12 +5,12 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 Focused on building scalable, secure, and production-ready web applications with clean UI and strong backend architecture.
 
 ---
 
-## ⚙️ Tech Stack  
+## Tech Stack  
 
 **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)  
 **Backend:** Node.js, Express.js, REST APIs  
@@ -20,7 +20,7 @@ Focused on building scalable, secure, and production-ready web applications with
 
 ---
 
-## 🎯 Current Focus  
+## Current Focus  
 - Scalable backend architecture  
 - System design fundamentals  
 - Secure authentication systems  
